@@ -1,7 +1,10 @@
 Running for 470.0 seconds (47 samples at 10.0 second intervals).
 Power measurements will start in 2 seconds time.
 
-Waiting 2 seconds before starting (gathering samples). Waiting 1 seconds before starting (gathering samples).                                                                                  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
+Waiting 2 seconds before starting (gathering samples). 
+Waiting 1 seconds before starting (gathering samples). 
+                                                                               
+  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
 06:55:32  68.1   0.0  30.7   0.0   1.2   15 140302  51221  36.91 
 06:55:42  68.4   0.0  30.6   0.0   0.9   15 135064  48918  37.39 
 06:55:52  68.7   0.0  30.2   0.0   1.1   15 132090  47186  37.47 
@@ -34,7 +37,6 @@ Waiting 2 seconds before starting (gathering samples). Waiting 1 seconds before
 07:00:22  67.3   0.0  31.7   0.0   1.0   15 133599  49070  37.93 
 07:00:32  67.5   0.0  31.6   0.0   0.9   15 131621  47948  37.94 
 07:00:42  67.6   0.0  31.2   0.0   1.2   14 133293  48540  38.03 
-  Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts
 07:00:52  68.5   0.0  30.5   0.0   1.0   15 137725  49630  38.34 
 07:01:02  67.5   0.0  31.4   0.0   1.1   16 138514  50447  38.42 
 07:01:12  67.6   0.0  31.6   0.0   0.9   15 141404  52206  38.48 
