@@ -1,0 +1,1 @@
+# thinkpad-x230-x240-power-consumption-test
